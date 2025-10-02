@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio — Your Name
+# Cybersecurity Portfolio - Vasantha kumar M
 
 Welcome to my cybersecurity portfolio!  
 This repository showcases my hands-on projects and reports completed during my academic and professional journey in cybersecurity and digital forensics.  
@@ -17,7 +17,8 @@ This repository showcases my hands-on projects and reports completed during my a
 - Linux system security and administration  
 - Security hardening (MFA, password policies, firewalls)  
 - Network attack analysis (DoS/SYN flooding)  
-- Report writing and security documentation  
+- Report writing and security documentation
+- Apply filters to SQL queries 
 
 ##  Certificates
 I am also completing Google Cybersecurity certificates and will add them here as I progress.
